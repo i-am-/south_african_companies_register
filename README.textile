@@ -1,0 +1,3 @@
+Scrapes the register of companies of South Africa.
+
+Not that it is currently NOT providing complete data, due to a 200-result limit on the web site, which I've yet to figure out how to properly circumvent.
